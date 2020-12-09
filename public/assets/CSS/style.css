@@ -1,0 +1,27 @@
+body {
+  background-color: yellow;
+  align-items: center;
+  height: 100%;
+  margin: 50px;
+}
+
+.h1 {
+  text-align: center;
+}
+
+
+
+.container {
+  display: ruby-base-container;
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+
+  justify-content: center;
+}
+#form {
+  margin-top: 50px;
+  justify-content: center;
+}
